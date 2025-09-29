@@ -9,7 +9,7 @@ A modern AI-powered Data Structures and Algorithms learning platform built with 
 ## 📸 Screenshots
 
 ![Progress Dashboard](https://github.com/tanaygt/dsa-mentor-ai/blob/main/Screenshot%202025-09-29%20224235.png)
-![Problem Solver](/screenshots/solver.png)
+![Problem Solver](https://github.com/tanaygt/dsa-mentor-ai/blob/main/Screenshot%202025-09-29%20224307.png)
 
 ## 🛠️ Built With
 
